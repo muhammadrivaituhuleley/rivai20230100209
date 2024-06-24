@@ -1,0 +1,10 @@
+<html>
+  <body>
+  <title>Daftar</title>
+    <ul>
+      <li>HTML</li>
+      <li>PHP</li>
+      <li>Ruby</li>
+    </ul>
+  </body>
+</html>
