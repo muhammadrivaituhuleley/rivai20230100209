@@ -1,0 +1,7 @@
+<html>
+  <body>
+  <title>Image</title>
+    <img src="https://progate.com/images/html/beginner/wanko.jpg"/>
+    <img src="http://progate.com/images/html/beginner/school.jpg"/>
+  </body>
+</html>
